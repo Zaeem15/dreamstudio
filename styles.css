@@ -640,6 +640,18 @@
             margin-top: 10px;
             background-size: contain;
         }
+
+	.fa {
+		display: inline-block;
+		font: normal normal normal 14px/1 FontAwesome;
+		font-size: inherit;
+		text-rendering: auto;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		font-size: 22px;
+		margin-left: 5px;
+   		margin-top: -3px;
+	}
         /*---------------------------------------Media Querues----------------------------------------*/
         
         @media only screen and (min-width:320px) and (max-width:449px) {
